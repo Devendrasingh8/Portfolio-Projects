@@ -1,5 +1,11 @@
 # Portfolio-Projects
-Hi welcome to my portfolio! my name is Devendra and I am a highly skilled analyst with a keen eye for detail and proficiency in Excel, SQL, Power BI, Tableau, and Python. I have a passion for data and enjoy digging deep into complex data sets to uncover valuable insights that drive business decisions.
+Hi, welcome to my portfolio!
+
+I’m Devendra, recently graduated from Humber College specializing in Business Insights and Analytics. As a highly skilled analytics professional, I bring a wealth of expertise in leveraging data-driven insights to drive strategic decision-making and achieve organizational success. With years of experience in the field, I have developed a deep understanding of data analysis techniques and have a proven track record of delivering actionable insights that drive business growth and profitability.
+
+My skillset includes proficiency in a variety of analytics tools and platforms, including SQL, Python, R, Power BI and Tableau, which I have used to create sophisticated models and dashboards that have transformed the way businesses operate. Additionally, my experience working with cross-functional teams has honed my ability to communicate complex data insights to stakeholders at all levels of the organization, driving alignment and enabling effective decision-making.
+
+Whether developing predictive models to optimize business outcomes or creating data-driven strategies to improve customer engagement, I am passionate about leveraging the power of data to drive measurable impact.
 
 I have gained valuable experience through personal projects and produced high-quality work that is accurate and reliable. Following are a few of my projects.
 
