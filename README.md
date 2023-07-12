@@ -9,9 +9,10 @@ Whether developing predictive models to optimize business outcomes or creating d
 
 I have gained valuable experience through personal projects and produced high-quality work that is accurate and reliable. Following are a few of my projects.
 
-1. [Predicting_Flight_Delays](https://github.com/Devendrasingh8/-Predicting_Flight_Delays)
+1. [Predicting Flight Delays](https://github.com/Devendrasingh8/-Predicting_Flight_Delays)
 2. [Retail analysis using Power BI](https://github.com/Devendrasingh8/Data-Analysis-and-EDA)
-3. [Personal-Finance](https://github.com/Devendrasingh8/Personal_Finance)
-4. [Cyclistic-Bike-Share-Data-Analysis](https://github.com/Devendrasingh8/Cyclistic-Bike-Share-Data-Analysis)
-5. [Sentiment-analysis-of-ChatGPT-Tweets-using-VADER-and-RoBERTa](https://github.com/Devendrasingh8/Sentiment-analysis-of-ChatGPT-Tweets-using-VADER-and-RoBERTa)
-6. [Retail analysis using Python](https://github.com/Devendrasingh8/Business-analytics-and-EDA)
+3. [Sales and Marketing Analysis for VanArsdel](https://github.com/Devendrasingh8/Sales-and-Marketing-Analysis-for-VanArsdel)
+4. [Personal Finance](https://github.com/Devendrasingh8/Personal_Finance)
+5. [Cyclistic Bike Share Data Analysis](https://github.com/Devendrasingh8/Cyclistic-Bike-Share-Data-Analysis)
+6. [Sentiment analysis of ChatGPT Tweets using VADER and RoBERTa](https://github.com/Devendrasingh8/Sentiment-analysis-of-ChatGPT-Tweets-using-VADER-and-RoBERTa)
+7. [Retail analysis using Python](https://github.com/Devendrasingh8/Business-analytics-and-EDA)
